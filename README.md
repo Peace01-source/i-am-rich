@@ -1,3 +1,4 @@
+
 # 💎 I Am Rich – Flutter App
 
 A beginner-level Flutter project from **Angela Yu’s Flutter Development Course on Udemy**.  
@@ -66,3 +67,5 @@ Watch the demo of the app here:
 
 **Adesokan Iyanu Peace**  
 Flutter Developer (Beginner)
+
+
